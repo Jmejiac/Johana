@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 from fpdf import FPDF
 
-logo_path = "https://tse1.mm.bing.net/th/id/OIP.sH1ZWNYR_xqLg60UBBHLmQHaHa?rs=1&pid=ImgDetMain
+logo_path = "https://tse1.mm.bing.net/th/id/OIP.sH1ZWNYR_xqLg60UBBHLmQHaHa?w=217&h=217&c=7&r=0&o=5&pid=1.7
 # Configuración inicial
 st.set_page_config(page_title="Módulos del ERP", layout="wide",page_icon=logo_path)
 # Ruta del archivo de imagen (logo)
